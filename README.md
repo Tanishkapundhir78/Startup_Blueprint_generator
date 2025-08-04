@@ -8,8 +8,10 @@ This Gradio app uses a language model (Granite-7B / Falcon-7B-Instruct) to gener
 - Output: Structured blueprint with MVP, Tech stack, Go-to-market, etc.
 - Built with: Gradio + Transformers
 
-###<img width="1871" height="923" alt="image" src="https://github.com/user-attachments/assets/ac4c9567-ca97-4171-a34d-8a862d2ba484" />
+###
 <img width="1879" height="829" alt="image" src="https://github.com/user-attachments/assets/e6a6ac40-4f70-4544-ac49-314431562493" />
+<img width="1304" height="915" alt="image" src="https://github.com/user-attachments/assets/6d1c4a7d-c663-4a37-b118-2faae7d249b2" />
+
 
 
 
